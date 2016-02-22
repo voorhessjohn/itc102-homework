@@ -1,0 +1,13 @@
+CARS to INTERNET - Collects meaningful data
+
+Car as miniature weather station
+  collects realtime weather data and reports to NOAA
+
+Maybe they could measure smog/air quality
+  (Especially if they displayed it on your dash--watch the air quality decrease the more you drive...)
+  OR pollen, for people with allergies
+
+Theft / vandalism reporting.
+
+Health reporting for occupants - 
+  heart rate sensors in steering wheel. Air sensors for O2 sat / blood glucose
