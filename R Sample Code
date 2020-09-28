@@ -1,3 +1,4 @@
+#From DataCamp R tutorial
 # Declare variables of different types
 my_numeric <- 42
 my_character <- "forty-two"
